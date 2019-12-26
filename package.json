@@ -1,5 +1,6 @@
 {
   "name": "webinar-github-action",
+  "homepage": "https://sshyam-gupta.github.io/webinar-github-action",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
