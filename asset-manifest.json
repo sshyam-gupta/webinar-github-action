@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/webinar-github-action/static/css/main.d1b05096.chunk.css",
+    "main.js": "/webinar-github-action/static/js/main.e4810bbe.chunk.js",
+    "main.js.map": "/webinar-github-action/static/js/main.e4810bbe.chunk.js.map",
+    "runtime-main.js": "/webinar-github-action/static/js/runtime-main.408465ba.js",
+    "runtime-main.js.map": "/webinar-github-action/static/js/runtime-main.408465ba.js.map",
+    "static/js/2.2283bfcb.chunk.js": "/webinar-github-action/static/js/2.2283bfcb.chunk.js",
+    "static/js/2.2283bfcb.chunk.js.map": "/webinar-github-action/static/js/2.2283bfcb.chunk.js.map",
+    "index.html": "/webinar-github-action/index.html",
+    "precache-manifest.6a824bef65d2f305034f5f212303c458.js": "/webinar-github-action/precache-manifest.6a824bef65d2f305034f5f212303c458.js",
+    "service-worker.js": "/webinar-github-action/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/webinar-github-action/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.2283bfcb.chunk.js.LICENSE": "/webinar-github-action/static/js/2.2283bfcb.chunk.js.LICENSE",
+    "static/media/logo.svg": "/webinar-github-action/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.408465ba.js",
+    "static/js/2.2283bfcb.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.e4810bbe.chunk.js"
+  ]
+}
